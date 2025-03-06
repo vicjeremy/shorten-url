@@ -3,8 +3,8 @@
   <h1>URL Shortening Service</h1>
 
   <p>
-    a simple RESTful API that allows users to shorten long URLs </p>
- <p>Built with Go (Gin Gonic, Gorm) and PostgreSQL, this tool is my implementation of the <a href="https://roadmap.sh/projects/url-shortening-service">Task Tracker</a> challenge from <a href="https://roadmap.sh">roadmap.sh</a>.
+    A simple RESTful API that allows users to shorten long URLs </p>
+ <p>Built with Go (Gin Gonic, Gorm) and PostgreSQL, this tool is my implementation of the <a href="https://roadmap.sh/projects/url-shortening-service">URL Shortening Service</a> challenge from <a href="https://roadmap.sh">roadmap.sh</a>.
   </p>
 
 <!-- Badges -->
@@ -48,9 +48,9 @@
   - [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
   - [Prerequisites](#bangbang-prerequisites)
-  - [Installation](#gear-installation)
+  <!-- [Installation](#gear-installation) -->
   - [Run Locally](#running-run-locally)
-- [Usage](#eyes-usage)]
+- [Usage](#eyes-usage)
 - [Contributing](#wave-contributing)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
